@@ -1,0 +1,88 @@
+{
+  "blogs": [
+    {
+      "id": "4",
+      "title": "CSS Grid Layout: A Comprehensive Guide",
+      "author": "Emily Brown",
+      "content": "CSS Grid Layout revolutionizes web design by providing a powerful layout system. Explore grid containers, grid items, and responsive design techniques with practical examples.",
+      "date": "2023-02-08",
+      "tags": [
+        "CSS",
+        "CSS Grid",
+        "Web Design"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Python Tips and Tricks for Beginners",
+      "author": "Alex Turner",
+      "content": "Python is a versatile programming language loved by beginners and experts alike. Discover useful tips and tricks to write cleaner, more efficient Python code.",
+      "date": "2023-01-20",
+      "tags": [
+        "Python",
+        "Programming",
+        "Tips and Tricks"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Introduction to Blockchain Technology",
+      "author": "Sophia Lee",
+      "content": "Blockchain technology underpins cryptocurrencies like Bitcoin and Ethereum. Learn about decentralized ledgers, smart contracts, and potential applications beyond finance.",
+      "date": "2022-12-05",
+      "tags": [
+        "Blockchain",
+        "Cryptocurrency",
+        "Technology"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Deep Dive into React Native",
+      "author": "Adam Scott",
+      "content": "React Native allows you to build mobile applications using JavaScript and React. Explore key concepts, architecture, and best practices for developing cross-platform mobile apps.",
+      "date": "2022-11-18",
+      "tags": [
+        "React Native",
+        "Mobile Development",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Introduction to Data Visualization with D3.js",
+      "author": "Grace Robinson",
+      "content": "D3.js is a powerful JavaScript library for creating interactive data visualizations. Dive into the basics of D3.js, including SVG elements, scales, and data binding techniques.",
+      "date": "2022-10-30",
+      "tags": [
+        "D3.js",
+        "Data Visualization",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "The Complete Guide to Docker Containers",
+      "author": "Mark Davis",
+      "content": "Docker containers revolutionize software development by providing lightweight, portable environments. Learn how to create, deploy, and manage Docker containers for your applications.",
+      "date": "2022-09-14",
+      "tags": [
+        "Docker",
+        "Containers",
+        "DevOps"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Responsive Web Design Techniques",
+      "author": "Sarah Green",
+      "content": "Responsive web design ensures your website looks great on all devices. Discover fluid grids, flexible images, and media queries to create a responsive and user-friendly web experience.",
+      "date": "2022-08-22",
+      "tags": [
+        "Responsive Web Design",
+        "Web Development",
+        "CSS"
+      ]
+    }
+  ]
+}
